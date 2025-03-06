@@ -1,0 +1,35 @@
+Title : iPhone Purchase Prediction using Machine Learning Algorithms
+
+Problem Statement : The objective of this project is to predict whether a customer will purchase an iPhone based on their demographic features such as gender, age, and salary. The classification models used are Naive Bayes, Random Forest, Logistic Regression, and K-Nearest Neighbors (KNN). The performance of each model is evaluated, and the best model is identified based on accuracy.
+
+Software Requirements : 
+- Google Colab
+- Python 3.x
+- Jupyter Notebook (Optional)
+- Google Chrome or any browser
+
+Hardware Requirements : 
+- Any computer with at least 4GB RAM
+- Internet connection
+
+Libraries Used : 
+- pandas (for data manipulation)
+- sklearn (for machine learning algorithms and preprocessing)
+- numpy (for numerical operations)
+- google.colab (for file uploads)
+
+Theory :
+1. Naive Bayes
+Naive Bayes is a probabilistic classifier based on Bayes' Theorem. It assumes that features are independent of each other.
+
+2. Random Forest
+Random Forest is an ensemble learning method that creates multiple decision trees and merges them to get a more accurate and stable prediction.
+
+3. Logistic Regression
+Logistic Regression is a statistical model that uses a logistic function to model the probability of a binary outcome.
+
+4. K-Nearest Neighbors (KNN)
+KNN is a non-parametric method used for classification and regression. It classifies data points based on the majority label of their nearest neighbors.
+
+Conclusion :
+Based on the evaluation metrics, the performance of Naive Bayes, Random Forest, Logistic Regression, and KNN models can be compared. The model with the highest accuracy will be considered the best for this dataset. This project demonstrates how machine learning algorithms can effectively predict customer purchase behavior based on demographic features.
